@@ -1,0 +1,21 @@
+.title {
+	color:red;
+	text-align:center;
+	font-family:cursive;
+}
+
+.p1 {
+	float:left;
+}
+.p2 {
+	float:right;
+}
+.player {
+	border-style:solid;
+	border-width:medium;
+	padding:20px 20px 20px 20px;
+	margin:20px 20px 20px 20px;
+}
+.board {
+	text-align:center;	
+}
