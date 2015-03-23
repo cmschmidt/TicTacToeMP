@@ -4,10 +4,10 @@
 	font-family:cursive;
 }
 
-.p1 {
+#p1 {
 	float:left;
 }
-.p2 {
+#p2 {
 	float:right;
 }
 .player {
@@ -16,6 +16,6 @@
 	padding:20px 20px 20px 20px;
 	margin:20px 20px 20px 20px;
 }
-.board {
+#board {
 	text-align:center;	
 }
